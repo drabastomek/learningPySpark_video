@@ -1,0 +1,44 @@
+OrderDate,Region,Rep,Item,Units,UnitCost,Total
+1/6/16,East,Jones,Pencil,95,1.99Ê,189.05Ê
+1/23/16,Central,Kivell,Binder,50,19.99Ê,999.50Ê
+2/9/16,Central,Jardine,Pencil,36,4.99Ê,179.64Ê
+2/26/16,Central,Gill,Pen,27,19.99Ê,539.73Ê
+3/15/16,West,Sorvino,Pencil,56,2.99Ê,167.44Ê
+4/1/16,East,Jones,Binder,60,4.99Ê,299.40Ê
+4/18/16,Central,Andrews,Pencil,75,1.99Ê,149.25Ê
+5/5/16,Central,Jardine,Pencil,90,4.99Ê,449.10Ê
+5/22/16,West,Thompson,Pencil,32,1.99Ê,63.68Ê
+6/8/16,East,Jones,Binder,60,8.99Ê,539.40Ê
+6/25/16,Central,Morgan,Pencil,90,4.99Ê,449.10Ê
+7/12/16,East,Howard,Binder,29,1.99Ê,57.71Ê
+7/29/16,East,Parent,Binder,81,19.99Ê,"1,619.19Ê"
+8/15/16,East,Jones,Pencil,35,4.99Ê,174.65Ê
+9/1/16,Central,Smith,Desk,2,125.00Ê,250.00Ê
+9/18/16,East,Jones,Pen Set,16,15.99Ê,255.84Ê
+10/5/16,Central,Morgan,Binder,28,8.99Ê,251.72Ê
+10/22/16,East,Jones,Pen,64,8.99Ê,575.36Ê
+11/8/16,East,Parent,Pen,15,19.99Ê,299.85Ê
+11/25/16,Central,Kivell,Pen Set,96,4.99Ê,479.04Ê
+12/12/16,Central,Smith,Pencil,67,1.29Ê,86.43Ê
+12/29/16,East,Parent,Pen Set,74,15.99Ê,"1,183.26Ê"
+1/15/17,Central,Gill,Binder,46,8.99Ê,413.54Ê
+2/1/17,Central,Smith,Binder,87,15.00Ê,"1,305.00Ê"
+2/18/17,East,Jones,Binder,4,4.99Ê,19.96Ê
+3/7/17,West,Sorvino,Binder,7,19.99Ê,139.93Ê
+3/24/17,Central,Jardine,Pen Set,50,4.99Ê,249.50Ê
+4/10/17,Central,Andrews,Pencil,66,1.99Ê,131.34Ê
+4/27/17,East,Howard,Pen,96,4.99Ê,479.04Ê
+5/14/17,Central,Gill,Pencil,53,1.29Ê,68.37Ê
+5/31/17,Central,Gill,Binder,80,8.99Ê,719.20Ê
+6/17/17,Central,Kivell,Desk,5,125.00Ê,625.00Ê
+7/4/17,East,Jones,Pen Set,62,4.99Ê,309.38Ê
+7/21/17,Central,Morgan,Pen Set,55,12.49Ê,686.95Ê
+8/7/17,Central,Kivell,Pen Set,42,23.95Ê,"1,005.90Ê"
+8/24/17,West,Sorvino,Desk,3,275.00Ê,825.00Ê
+9/10/17,Central,Gill,Pencil,7,1.29Ê,9.03Ê
+9/27/17,West,Sorvino,Pen,76,1.99Ê,151.24Ê
+10/14/17,West,Thompson,Binder,57,19.99Ê,"1,139.43Ê"
+10/31/17,Central,Andrews,Pencil,14,1.29Ê,18.06Ê
+11/17/17,Central,Jardine,Binder,11,4.99Ê,54.89Ê
+12/4/17,Central,Jardine,Binder,94,19.99Ê,"1,879.06Ê"
+12/21/17,Central,Andrews,Binder,28,4.99Ê,139.72
